@@ -1,0 +1,86 @@
+17:08:56:292 2018.10.30 KMS GUI ELDI 37.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Windows Detected: Windows 10 Education : Education : 6.3 : 16299
+
+17:08:56:866 Error: 文件“C:\Windows\SECOH-QAD.dll”正由另一进程使用，因此该进程无法访问此文件。 ᜀ
+17:08:56:867 Loading SECOH-QAD...
+17:08:56:800 Using host Forward: 10.44.226.169:1688
+17:08:56:869 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+17:08:56:869 Using host Forward: 10.44.226.169:1688
+17:08:56:869 Using host Local: 127.172.156.87:1688
+17:08:56:869 Using method: SECOH-QAD
+17:08:56:936 Time Start: 2018/10/30 17:08:54
+17:08:56:800 Using host Local: 127.172.156.87:1688
+17:08:56:801 Using method: SECOH-QAD
+17:08:56:936 Time Start: 2018/10/30 17:08:54
+17:08:56:939 Checking Internet Connection...
+17:08:58:103 Windows Detected: Windows 10 Education : Education : 6.3 : 16299
+17:08:58:105 Using host Forward: 10.44.226.169:1688
+17:08:58:105 Using host Local: 127.172.156.87:1688
+17:08:58:106 Using method: SECOH-QAD
+17:08:58:224 Opening Firewall Port...
+17:08:56:939 Checking Internet Connection...
+17:08:58:105 Windows Detected: Windows 10 Education : Education : 6.3 : 16299
+17:08:58:107 Using host Forward: 10.44.226.169:1688
+17:08:58:107 Using host Local: 127.172.156.87:1688
+17:08:58:107 Using method: SECOH-QAD
+17:08:58:226 Opening Firewall Port...
+17:08:58:668 Opening Firewall App...
+17:08:58:829 KMSEmulator Port: 1688
+17:08:58:830 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+17:08:59:005 Office 2010 Skipped
+17:08:59:007 Office 2013 Skipped
+17:08:59:006 Office 2016 Skipped
+17:08:59:188 KMSEmulator running port: 1688
+17:08:59:421 Found Windows Products: 1
+17:08:59:423 Name: Windows(R), Education edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: VCFB2
+GenuineStatus: 1
+
+17:08:58:671 Opening Firewall App...
+17:08:58:822 KMSEmulator Port: 1688
+17:08:58:823 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+17:08:59:015 Office 2016 Skipped
+17:08:59:044 Office 2010 Skipped
+17:08:59:046 Office 2013 Skipped
+17:08:59:273 IPv6 failure. Trying IPv4 only
+17:08:59:355 Error: 通常每个套接字地址(协议/网络地址/端口)只允许使用一次。 Start
+17:08:59:356 KMSEmulator running port: 1688
+17:08:59:829 Found Windows Products: 1
+17:08:59:831 Name: Windows(R), Education edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 0
+LicenseStatus: 5
+PartialProductKey: VCFB2
+GenuineStatus: 1
+
+17:09:00:265 DisableKeyManagementServiceHostCaching 0
+17:09:00:267 DisableKeyManagementServiceHostCaching 0
+17:09:00:267 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+17:09:00:267 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+17:09:01:557 Activating Windows
+17:09:01:784 SetKeyManagementServiceMachine: 0: 10.44.226.169
+17:09:01:826 SetKeyManagementServicePort: 0: 1688
+17:09:01:833 SetVLActivationTypeEnabled 0
+17:09:00:266 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+17:09:00:266 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+17:09:02:738 Connection accepted from 127.0.0.1:58780
+17:09:03:064 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: MicroWin10-1530
+17:09:03:249 Sending response: v6, PID: 06401-00168-109-925631-03-2052-9600.0000-0782016, HwID: 967CDB66C2FEC678
+17:09:04:801 Windows(R), Education edition Activated 0
+17:09:04:802 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\e0c42288-980c-4788-a014-c080d2e1926e:DiscoveredKeyManagementServiceIpAddress
+17:09:04:863 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+17:09:04:865 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+17:09:04:899 ClearKeyManagementServiceMachine 0
+17:09:04:906 ClearKeyManagementServicePort 0
+17:09:04:909 Closing Firewall Port...
+17:09:05:017 Closing Firewall App...
+17:09:05:088 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+17:09:06:566 Unloading SECOH-QAD...
+17:09:06:568 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+17:09:06:633 Client listener shut down

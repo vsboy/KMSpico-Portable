@@ -1,0 +1,255 @@
+20:36:40:845 2017.08.08 AutoPico 16.1.0.0
+Official Site: 
+http://forums.mydigitallife.info/forums/51-KMS-tools
+KMSpico v10.2.0
+Time Start: 2017/8/8 20:36:40
+
+20:36:40:845 Checking Internet Connection...
+20:36:40:970 Windows Detected: Windows 10 Pro : Professional : 6.3 : 15063
+20:36:40:979 Internet Connection Detected
+20:36:40:987 Synchronizing Time...
+20:36:41:015 Loading SECOH-QAD...
+20:36:41:018 Set Registry : Image File Execution Options\SppExtComObj.exe:Debugger
+20:36:41:019 Using host Forward: 10.214.228.140:1688
+20:36:41:019 Using host Local: 127.237.204.239:1688
+20:36:41:019 Using method: SECOH-QAD
+20:36:41:058 Opening Firewall Port...
+20:36:41:124 Opening Firewall App...
+20:36:41:231 KMSEmulator Port: 1688
+20:36:41:232 Get Registry : SYSTEM\CurrentControlSet\Services\sppsvc:Start
+20:36:41:243 KMSEmulator running port: 1688
+20:36:41:336 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+20:36:41:336 Office 2010 Skipped
+20:36:41:336 Office 2013 Skipped
+20:36:42:711 Time synchronized
+20:36:43:082 Found Office 2016 Products: 1
+20:36:43:084 Name: Office 16, Office16ProPlusR_Grace edition
+Description: Office 16, RETAIL(Grace) channel
+GracePeriodRemaining: 7094
+LicenseStatus: 2
+PartialProductKey: BTDRB
+GenuineStatus: 0
+
+20:36:43:107 Folder Found: F:\KMSpico+v10.2.0+Portable\KMSpico Portable\cert\kmscert2016\ProPlus
+20:36:43:107 Converting Office 2016 products: 1
+20:36:43:244 DisableKeyManagementServiceHostCaching 0
+20:36:43:245 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+20:36:43:246 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+20:36:43:246 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+20:36:43:246 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+20:36:43:246 Found Windows Products: 1
+20:36:43:246 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+20:36:43:246 Name: Windows(R), Professional edition
+Description: Windows(R) Operating System, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 256022
+LicenseStatus: 1
+PartialProductKey: T83GX
+GenuineStatus: 0
+
+20:36:43:246 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+20:36:43:247 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+20:36:43:247 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+20:36:43:248 Folder Found: F:\KMSpico+v10.2.0+Portable\KMSpico Portable\cert\kmscert2016\ProPlus
+20:36:43:248 Converting Office 16, Office16ProPlusR_Grace edition ...
+20:36:43:266 DisableKeyManagementServiceHostCaching 0
+20:36:43:266 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+20:36:43:266 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+20:36:43:277 Installing License 1 for :ProPlus
+20:36:43:368 InstallLicense 0
+20:36:43:373 Installing License 2 for :ProPlus
+20:36:43:393 InstallLicense 0
+20:36:43:399 Installing License 3 for :ProPlus
+20:36:43:417 InstallLicense 0
+20:36:43:423 Installing License 4 for :ProPlus
+20:36:43:443 InstallLicense 0
+20:36:43:449 Installing License 5 for :ProPlus
+20:36:43:468 InstallLicense 0
+20:36:43:474 Installing License 6 for :ProPlus
+20:36:43:494 InstallLicense 0
+20:36:43:522 Installing License 7 for :ProPlus
+20:36:43:593 InstallLicense 0
+20:36:43:595 Installing .reg files
+20:36:43:601 Installing License 8 for :ProPlus
+20:36:43:621 InstallLicense 0
+20:36:43:626 Installing License 9 for :ProPlus
+20:36:43:647 InstallLicense 0
+20:36:43:652 Installing License 10 for :ProPlus
+20:36:43:673 InstallLicense 0
+20:36:43:674 Installing .reg files
+20:36:43:674 Installing License 11 for :ProPlus
+20:36:43:696 InstallLicense 0
+20:36:43:696 Installing License 12 for :ProPlus
+20:36:43:717 InstallLicense 0
+20:36:43:717 Installing License 13 for :ProPlus
+20:36:43:738 InstallLicense 0
+20:36:43:738 Installing License 14 for :ProPlus
+20:36:43:760 InstallLicense 0
+20:36:43:760 Installing License 15 for :ProPlus
+20:36:43:781 InstallLicense 0
+20:36:43:781 Installing License 16 for :ProPlus
+20:36:43:803 InstallLicense 0
+20:36:43:804 Installing License 17 for :ProPlus
+20:36:43:826 InstallLicense 0
+20:36:43:826 Installing License 18 for :ProPlus
+20:36:43:847 InstallLicense 0
+20:36:43:847 Installing License 19 for :ProPlus
+20:36:43:869 InstallLicense 0
+20:36:43:869 Installing License 20 for :ProPlus
+20:36:43:890 InstallLicense 0
+20:36:43:890 Installing License 21 for :ProPlus
+20:36:43:912 InstallLicense 0
+20:36:43:912 Installing License 22 for :ProPlus
+20:36:43:934 InstallLicense 0
+20:36:43:934 Installing License 23 for :ProPlus
+20:36:43:957 InstallLicense 0
+20:36:43:957 Installing License 24 for :ProPlus
+20:36:43:979 InstallLicense 0
+20:36:43:979 Installing License 25 for :ProPlus
+20:36:44:002 InstallLicense 0
+20:36:44:002 Installing License 26 for :ProPlus
+20:36:44:024 InstallLicense 0
+20:36:44:025 Installing License 27 for :ProPlus
+20:36:44:048 InstallLicense 0
+20:36:44:048 Installing License 28 for :ProPlus
+20:36:44:070 InstallLicense 0
+20:36:44:070 Installing License 29 for :ProPlus
+20:36:44:092 InstallLicense 0
+20:36:44:092 Installing License 30 for :ProPlus
+20:36:44:118 InstallLicense 0
+20:36:44:118 Installing License 31 for :ProPlus
+20:36:44:142 InstallLicense 0
+20:36:44:142 Installing License 32 for :ProPlus
+20:36:44:164 InstallLicense 0
+20:36:44:165 Installing License 33 for :ProPlus
+20:36:44:186 InstallLicense 0
+20:36:44:187 Installing License 34 for :ProPlus
+20:36:44:208 InstallLicense 0
+20:36:44:208 Installing License 35 for :ProPlus
+20:36:44:232 InstallLicense 0
+20:36:44:233 Installing License 36 for :ProPlus
+20:36:44:254 InstallLicense 0
+20:36:44:254 Installing License 37 for :ProPlus
+20:36:44:276 InstallLicense 0
+20:36:44:276 Installing License 38 for :ProPlus
+20:36:44:298 InstallLicense 0
+20:36:44:299 Installing License 39 for :ProPlus
+20:36:44:321 InstallLicense 0
+20:36:44:321 Installing License 40 for :ProPlus
+20:36:44:343 InstallLicense 0
+20:36:44:343 Installing License 41 for :ProPlus
+20:36:44:367 InstallLicense 0
+20:36:44:371 Installing License 42 for :ProPlus
+20:36:44:394 InstallLicense 0
+20:36:44:394 Installing License 43 for :ProPlus
+20:36:44:416 InstallLicense 0
+20:36:44:416 Installing License 44 for :ProPlus
+20:36:44:438 InstallLicense 0
+20:36:44:438 Installing License 45 for :ProPlus
+20:36:44:459 InstallLicense 0
+20:36:44:459 Installing License 46 for :ProPlus
+20:36:44:481 InstallLicense 0
+20:36:44:481 Installing License 47 for :ProPlus
+20:36:44:503 InstallLicense 0
+20:36:44:503 Installing License 48 for :ProPlus
+20:36:44:524 InstallLicense 0
+20:36:44:525 Installing License 49 for :ProPlus
+20:36:44:547 InstallLicense 0
+20:36:44:547 Installing License 50 for :ProPlus
+20:36:44:569 InstallLicense 0
+20:36:44:569 Installing License 51 for :ProPlus
+20:36:44:591 InstallLicense 0
+20:36:44:591 Installing License 52 for :ProPlus
+20:36:44:613 InstallLicense 0
+20:36:44:613 Installing License 53 for :ProPlus
+20:36:44:635 InstallLicense 0
+20:36:44:640 Installing License 54 for :ProPlus
+20:36:44:660 InstallLicense 0
+20:36:44:667 Installing License 55 for :ProPlus
+20:36:44:693 InstallLicense 0
+20:36:44:699 Installing License 56 for :ProPlus
+20:36:44:728 InstallLicense 0
+20:36:44:734 Installing License 57 for :ProPlus
+20:36:44:758 InstallLicense 0
+20:36:44:765 Installing License 58 for :ProPlus
+20:36:44:788 InstallLicense 0
+20:36:44:796 Installing License 59 for :ProPlus
+20:36:44:818 InstallLicense 0
+20:36:44:823 Installing License 60 for :ProPlus
+20:36:44:846 InstallLicense 0
+20:36:44:847 Installing .reg files
+20:36:44:857 Installing Key: -WFG99
+20:36:45:181 InstallProductKey -WFG99 0
+20:36:45:447 RefreshLicenseStatus 0
+20:36:45:453 Converting: Office 16, Office16ProPlusR_Grace edition
+20:36:45:453 UnInstalling Key
+20:36:45:486 BTDRB UninstallProductKey 0
+20:36:45:494 Office 2016 Found: C:\Program Files (x86)\Microsoft Office\root\Office16
+20:36:46:050 Found Office 2016 Products: 1
+20:36:46:050 Name: Office 16, Office16ProPlusVL_KMS_Client edition
+Description: Office 16, VOLUME_KMSCLIENT channel
+GracePeriodRemaining: 43200
+LicenseStatus: 2
+PartialProductKey: WFG99
+GenuineStatus: 0
+
+20:36:46:127 DisableKeyManagementServiceHostCaching 0
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+20:36:46:127 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+20:36:46:128 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+20:36:46:129 Activating Windows
+20:36:46:129 Activating Office 2016
+20:36:46:201 DisableKeyManagementServiceHostCaching 0
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+20:36:46:202 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+20:36:46:225 SetVLActivationTypeEnabled 0
+20:36:46:360 SetKeyManagementServiceMachine: 0: 10.214.228.140
+20:36:46:645 Connection accepted from [::ffff:127.0.0.1]:8873
+20:36:46:679 Received request: v6, AppID: 0ff1ce15-a989-479d-af46-f275c6370663, Machine: Sun-PC
+20:36:46:696 Sending response: v6, PID: 55041-00206-234-559419-03-2052-7601.0000-3482015, HwID: 822184E395BC7433
+20:36:46:698 Connection closed
+20:36:47:048 Office 16, Office16ProPlusVL_KMS_Client edition Activated 0
+20:36:47:049 SetKeyManagementServicePort: 0: 1688
+20:36:47:049 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:DiscoveredKeyManagementServiceIpAddress
+20:36:47:213 ClearKeyManagementServiceMachine 0
+20:36:47:319 Connection accepted from [::ffff:127.0.0.1]:8874
+20:36:47:320 Received request: v6, AppID: 55c92734-d682-4d71-983e-d6ec3f16059f, Machine: Sun-PC
+20:36:47:320 Sending response: v6, PID: 55041-00142-312-032050-03-2052-7601.0000-2932016, HwID: 36BE531104ED1FC5
+20:36:47:320 Connection closed
+20:36:47:996 Windows(R), Professional edition Activated 0
+20:36:47:997 Set Registry : HKEY_USERS\S-1-5-20\SoftwareProtectionPlatform\55c92734-d682-4d71-983e-d6ec3f16059f\2de67392-b7a7-462a-b1ca-108dd189f588:DiscoveredKeyManagementServiceIpAddress
+20:36:47:998 ClearKeyManagementServicePort 0
+20:36:48:002 Set Registry : SoftwareProtectionPlatform:KeyManagementServiceName
+20:36:48:002 Set Registry : SoftwareProtectionPlatform:KeyManagementServicePort
+20:36:48:002 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServiceName
+20:36:48:002 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\4f414197-0fc2-4c01-b68a-86cbb9ac254c:KeyManagementServicePort
+20:36:48:002 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServiceName
+20:36:48:003 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\6bf301c1-b94a-43e9-ba31-d494598c47fb:KeyManagementServicePort
+20:36:48:003 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServiceName
+20:36:48:003 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\b322da9c-a2e2-4058-9e4e-f59a6970bd69:KeyManagementServicePort
+20:36:48:003 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServiceName
+20:36:48:003 Set Registry : SoftwareProtectionPlatform\0ff1ce15-a989-479d-af46-f275c6370663\d450596f-894d-49e0-966a-fd39ed4c4c64:KeyManagementServicePort
+20:36:48:007 ClearKeyManagementServiceMachine 0
+20:36:48:011 ClearKeyManagementServicePort 0
+20:36:48:012 Closing Firewall Port...
+20:36:48:060 Closing Firewall App...
+20:36:48:110 Set Registry : HKEY_CURRENT_USER\Control Panel\Desktop:PaintDesktopVersion
+20:36:48:465 Connection accepted from [::ffff:127.0.0.1]:8876
+20:36:48:466 Received request: v6, AppID: 0ff1ce15-a989-479d-af46-f275c6370663, Machine: Sun-PC
+20:36:48:466 Sending response: v6, PID: 03612-00206-234-131491-03-2052-10240.0000-2212013, HwID: 12B41D0C473C5FAD
+20:36:48:469 Connection closed
+20:36:49:534 Unloading SECOH-QAD...
+20:36:49:534 Client listener shut down
+20:36:49:535 Del Registry : SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\SppExtComObj.exe:
+20:36:49:539 Killing: SECOH-QAD
+20:36:49:546 Time Finish: 2017/8/8 20:36:49
